@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790126968466",
+    "project_id": "flutter-test-bf165",
+    "storage_bucket": "flutter-test-bf165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790126968466:android:49209cedcd72acd6d4b04b",
+        "android_client_info": {
+          "package_name": "com.fenix.login_flutter_fenix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSpxtxFJx3p4JKLBe4hOH1rQO65F_s-fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
